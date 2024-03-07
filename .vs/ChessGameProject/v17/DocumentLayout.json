@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jeff\\Desktop\\COMP3951\\ChessGameProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F47FB62B-B803-49BB-9DA9-227C28F05CE6}|ChessGameProject\\ChessGameProject.csproj|c:\\users\\jeff\\desktop\\comp3951\\chessgameproject\\chessgameproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47FB62B-B803-49BB-9DA9-227C28F05CE6}|ChessGameProject\\ChessGameProject.csproj|solutionrelative:chessgameproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBDA880-D869-4AF7-B9A4-3C6F63333168}|ChessGameProjectTests\\ChessGameProjectTests.csproj|c:\\users\\jeff\\desktop\\comp3951\\chessgameproject\\chessgameprojecttests\\chessboardtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBDA880-D869-4AF7-B9A4-3C6F63333168}|ChessGameProjectTests\\ChessGameProjectTests.csproj|solutionrelative:chessgameprojecttests\\chessboardtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBDA880-D869-4AF7-B9A4-3C6F63333168}|ChessGameProjectTests\\ChessGameProjectTests.csproj|c:\\users\\jeff\\desktop\\comp3951\\chessgameproject\\chessgameprojecttests\\bishoptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBDA880-D869-4AF7-B9A4-3C6F63333168}|ChessGameProjectTests\\ChessGameProjectTests.csproj|solutionrelative:chessgameprojecttests\\bishoptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jeff\\Desktop\\COMP3951\\ChessGameProject\\ChessGameProject\\Form1.cs",
+              "RelativeDocumentMoniker": "ChessGameProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jeff\\Desktop\\COMP3951\\ChessGameProject\\ChessGameProject\\Form1.cs",
+              "RelativeToolTip": "ChessGameProject\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T05:47:26.373Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BishopTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jeff\\Desktop\\COMP3951\\ChessGameProject\\ChessGameProjectTests\\BishopTests.cs",
+              "RelativeDocumentMoniker": "ChessGameProjectTests\\BishopTests.cs",
+              "ToolTip": "C:\\Users\\Jeff\\Desktop\\COMP3951\\ChessGameProject\\ChessGameProjectTests\\BishopTests.cs",
+              "RelativeToolTip": "ChessGameProjectTests\\BishopTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T05:59:06.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChessboardTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jeff\\Desktop\\COMP3951\\ChessGameProject\\ChessGameProjectTests\\ChessboardTests.cs",
+              "RelativeDocumentMoniker": "ChessGameProjectTests\\ChessboardTests.cs",
+              "ToolTip": "C:\\Users\\Jeff\\Desktop\\COMP3951\\ChessGameProject\\ChessGameProjectTests\\ChessboardTests.cs",
+              "RelativeToolTip": "ChessGameProjectTests\\ChessboardTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T05:37:42.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
